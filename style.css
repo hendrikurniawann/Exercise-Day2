@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --gray: #dcdcdd; 
+    --whitesmoke: #f4f5f7; 
+    --white: #ffffff;
+    --black: #000000;  
+}
+
+body{
+    font-family: "Open Sans", sans-serif;
+    background-color:#F4F5F7;
+    ;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: var(--black);
+}
